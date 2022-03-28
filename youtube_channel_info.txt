@@ -1,6 +1,18 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+UKRAINE CH 1 | UKRAINE | |
+https://www.youtube.com/watch?v=aAPb8XYWedE
+
+UKRAINE CH 2 | UKRAINE | |
+https://www.youtube.com/watch?v=QM11FIMo68s
+
+UKRAINE CH 3 | |
+https://www.youtube.com/watch?v=-jYc415B8eM
+
+UKRAINE CH 4 | UKRAINE | |
+https://www.youtube.com/watch?v=iCywj0XnfK8
+
 Sky News | News | |
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
