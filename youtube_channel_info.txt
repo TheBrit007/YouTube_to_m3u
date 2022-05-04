@@ -1,8 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-STAGECOACH CAM 1 | STAGECOACH 2022 | |
-https://www.youtube.com/watch?v=W8PumUJYD6g
+TOP GUN MAVERICK RED CARPET | MOVIES | |
+https://www.youtube.com/watch?v=S-Tzg6Ngv5A
 
 UKRAINE CH 1 | UKRAINE | |
 https://www.youtube.com/watch?v=aAPb8XYWedE
