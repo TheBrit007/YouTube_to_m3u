@@ -1,6 +1,9 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Barstool Yak | Podcast | |
+https://www.youtube.com/watch?v=3JWxNygW-bU&list=PLU12uITxBEPHOJO1FU8qll6gQmKcXp5S7&index=9
+
 The MMA Hour | Podcast | |
 https://www.youtube.com/watch?v=k7tHhxbC2jQ&list=PLU12uITxBEPHOJO1FU8qll6gQmKcXp5S7&index=8
 
