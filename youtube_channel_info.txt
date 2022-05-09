@@ -1,6 +1,9 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Pat McAfee Show | Podcast | |
+https://www.youtube.com/watch?v=GuOXCpZ67Oo&list=PLU12uITxBEPHOJO1FU8qll6gQmKcXp5S7&index=1
+
 Google Keynote 2022 | Google | |
 https://www.youtube.com/watch?v=PeUXBvRExic
 
