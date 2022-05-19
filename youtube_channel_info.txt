@@ -1,6 +1,12 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Tornado Chaser | Weather | |
+https://www.youtube.com/watch?v=tzF_MeQvROM&list=PLU12uITxBEPHOJO1FU8qll6gQmKcXp5S7&index=58
+
+Harry Styles Album Release Party | Music | |
+https://www.youtube.com/watch?v=DTzvEtODxeE
+
 Barstool Yak | Podcast | |
 https://www.youtube.com/watch?v=3JWxNygW-bU&list=PLU12uITxBEPHOJO1FU8qll6gQmKcXp5S7&index=9
 
@@ -19,17 +25,20 @@ https://www.youtube.com/playlist?list=PLL-lmlkrmJanUePyXyLusrJGzyGRg-Qj3
 Best Of MLB | MLB | |
 https://www.youtube.com/playlist?list=PLL-lmlkrmJak4XW2sUGbOdSTJPXJeqcqW
 
-MLB Youtube Game Of The Day May 11 Brewers at Reds| MLB | https://i.ytimg.com/vi/IQUB8vX_xHo/maxresdefault.jpg |
-https://www.youtube.com/watch?v=Ibe20iUXqCo
+Tigers At Twins May 25 | MLB | | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png
+https://www.youtube.com/watch?v=GLeVB_jAqP8&list=PLL-lmlkrmJanAeIIfwSpaB-HpDYmW6-rF&index=2
 
-MLB Youtube Game Of The Day May 18 Pirates at Cubs| MLB | https://i.ytimg.com/vi/IQUB8vX_xHo/maxresdefault.jpg |
-https://www.youtube.com/watch?v=6qg1BWHGqQ8
+Royals At Guardians June 1 | | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png
+https://www.youtube.com/watch?v=i2u0zWDfgQQ&list=PLL-lmlkrmJanAeIIfwSpaB-HpDYmW6-rF&index=3
+
+Blu Jays At Royals June 8 | | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png
+https://www.youtube.com/watch?v=MW9kkthTqoM&list=PLL-lmlkrmJanAeIIfwSpaB-HpDYmW6-rF&index=4
+
+Twins At Mariners June 15 | | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png
+https://www.youtube.com/watch?v=P1Z9hnn4QWw&list=PLL-lmlkrmJanAeIIfwSpaB-HpDYmW6-rF&index=5
 
 Tampa Bay Traffic Cams | Traffic | |
 https://www.youtube.com/watch?v=VxLSbs1xtIU
-
-Miami F1 Grand Prix Area Traffic | Traffic | |
-https://www.youtube.com/watch?v=6qXCFlLDrXY
 
 San Diego Webcams | Cities | |
 https://www.youtube.com/watch?v=o5JuKS__CXQ
