@@ -5,7 +5,7 @@
 #########################################################################
 
 
-#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="https://horrornews.net/wp-content/uploads/2018/04/TMNT-2014-poster.jpg", TM Ninja Turtles 2014
+#EXTINF:-1 group-title="Movies" tvg-logo="https://horrornews.net/wp-content/uploads/2018/04/TMNT-2014-poster.jpg" tvg-id="", TM Ninja Turtles 2014
 https://github.com/TheBrit007/YouTube_to_m3u/raw/main/assets/stream_will_be_back_soon.m3u8
 
 #EXTINF:-1 group-title="Podcast" tvg-logo="" tvg-id="", Barstool Yak
@@ -26,5 +26,5 @@ https://github.com/TheBrit007/YouTube_to_m3u/raw/main/assets/stream_will_be_back
 #EXTINF:-1 group-title="Mlb" tvg-logo="" tvg-id="", Best Of MLB
 https://github.com/TheBrit007/YouTube_to_m3u/raw/main/assets/stream_will_be_back_soon.m3u8
 
-#EXTINF:-1 group-title="Mlb" tvg-logo="" tvg-id="https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png", Tigers At Twins May 25
+#EXTINF:-1 group-title="Mlb" tvg-logo="https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png" tvg-id="", Tigers At Twins May 25
 https://github.com/TheBrit007/YouTube_to_m3u/raw/main/assets/stream_will_be_back_soon.m3u8
