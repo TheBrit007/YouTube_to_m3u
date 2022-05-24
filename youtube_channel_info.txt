@@ -1,7 +1,7 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-TM Ninja Turtles 2014 | Movies | | https://horrornews.net/wp-content/uploads/2018/04/TMNT-2014-poster.jpg
+TM Ninja Turtles 2014 | Movies | https://horrornews.net/wp-content/uploads/2018/04/TMNT-2014-poster.jpg |
 https://www.youtube.com/watch?v=-dsy5fJoMq4
 
 Barstool Yak | Podcast | |
@@ -22,16 +22,16 @@ https://www.youtube.com/playlist?list=PLL-lmlkrmJanUePyXyLusrJGzyGRg-Qj3
 Best Of MLB | MLB | |
 https://www.youtube.com/playlist?list=PLL-lmlkrmJak4XW2sUGbOdSTJPXJeqcqW
 
-Tigers At Twins May 25 | MLB | | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png
+Tigers At Twins May 25 | MLB | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png |
 https://www.youtube.com/watch?v=GLeVB_jAqP8&list=PLL-lmlkrmJanAeIIfwSpaB-HpDYmW6-rF&index=2
 
-Royals At Guardians June 1 | | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png
+Royals At Guardians June 1 | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png |
 https://www.youtube.com/watch?v=i2u0zWDfgQQ&list=PLL-lmlkrmJanAeIIfwSpaB-HpDYmW6-rF&index=3
 
-Blu Jays At Royals June 8 | | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png
+Blu Jays At Royals June 8 | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png |
 https://www.youtube.com/watch?v=MW9kkthTqoM&list=PLL-lmlkrmJanAeIIfwSpaB-HpDYmW6-rF&index=4
 
-Twins At Mariners June 15 | | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png
+Twins At Mariners June 15 | https://s22927.pcdn.co/wp-content/uploads/2019/08/mlb-game-of-the-week-on-youtube.png |
 https://www.youtube.com/watch?v=P1Z9hnn4QWw&list=PLL-lmlkrmJanAeIIfwSpaB-HpDYmW6-rF&index=5
 
 Tampa Bay Traffic Cams | Traffic | |
